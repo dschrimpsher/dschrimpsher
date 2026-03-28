@@ -16,8 +16,8 @@ Experience across defense (C2, sensor fusion, RF systems) and modern cloud platf
 Exploring natural language as code and LLM-driven development workflows.
 
 ## Selected Projects
-- [6GL](https://github.com/dschrimpsher/6GL) – Exploring natural language as an intermediate representation for programming  
-- [Project X](link) – Short description  
+- [6GL](https://github.com/dschrimpsher/6GL) – Research and experiments on natural language as code and LLM-driven programming models (6GL). 
+- [Web Service Project Template](https://github.com/UAH-Computer-Science/cs453-project-template) – Web Service Starter Project
 
 ## Interests
 Building systems that bridge real-time environments and modern cloud architectures.
